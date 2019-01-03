@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Process Engineering",
+    "Enhanced Oil Recovery",
+    "Reservoir Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Petroleum Engineering"
+  institution = "The University of Texas at Austin"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BE in Chemical Engineering"
+  institution = "BITS Pilani"
+  year = 2016
  
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently pursuing graduate studies in [Petroleum Engineering](https://www.pge.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/). My research is focused on applying advanced experimental techniques and modelling the behavior of foams used in enhanced oil recovery.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I worked as a Process Engineer at [Sulzer Chemtech](https://www.sulzer.com/en/shared/about-us/2017/08/16/12/50/myr17-chemtech), where I designed basic engineering packages for various distillation units.
+
+I graduated from [BITS Pilani](https://www.bits-pilani.ac.in/goa/), India in 2016 with a degree in Chemical Engineering.
