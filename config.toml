@@ -64,14 +64,10 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "anuradha495@utexas.edu"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  address = "EER 7.614 2501 Speedway Austin, Texas 78712"
+  office_hours = ""
+  phone = "512-300-8338"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -306,20 +302,20 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
 #  weight = 5
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 6
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
